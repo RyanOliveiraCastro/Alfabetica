@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370940910996",
+    "project_id": "alfabetica-ifes",
+    "storage_bucket": "alfabetica-ifes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370940910996:android:9ac6486e2ff4897e410381",
+        "android_client_info": {
+          "package_name": "com.ifes.alfabetica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370940910996-ir4vbgbeabp3kkmqeqtocvvk0bj7552l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALMpN_9n8O0gFQ7CBtUm80c9ZPkGWv2Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370940910996-ir4vbgbeabp3kkmqeqtocvvk0bj7552l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
